@@ -11,7 +11,7 @@ I'm learning full stack web development from scratch, and this is my public log 
 The goal: build consistently, learn in public, and track how far I've come.
 
 - 🎯 **Goal:** Become a confident full stack developer
-- 📅 **Started:** _[Month, Year]_
+- 📅 **Started:** _[August, 2026]_
 - 🔁 **Update frequency:** Daily / Almost daily
 - 🧠 **Learning style:** Build → Break → Fix → Document
 
@@ -56,6 +56,7 @@ web-dev/
 | Date | What I Learned / Built | Notes |
 |------|------------------------|-------|
 | _e.g. 25 Aug 2026_ | Started HTML basics — tags, structure, semantic elements | Setup repo & workflow |
+completed till forms.
 |  |  |  |
 |  |  |  |
 
@@ -85,9 +86,11 @@ A running list of things I've built along the way:
 
 Feel free to follow along, drop suggestions, or connect!
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Twitter/X: _optional_
-- LinkedIn: _optional_
+- GitHub: https://github.com/Utkarsh-Pratap-Singh633
+- Twitter/X: https://x.com/UtkarshSolves
+- LinkedIn: www.linkedin.com/in/utkarsh-pratap-singh-a297212a5
+
+
 
 ---
 
