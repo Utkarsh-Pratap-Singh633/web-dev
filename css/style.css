@@ -1,0 +1,25 @@
+h1 {
+    color: #A85751;
+}
+button{
+    color: brown;
+    background-color: antiquewhite;
+}
+p{
+    color: blueviolet;
+}
+body{
+    background-color: beige;
+}
+#box{
+    background-color: blue;
+    color: white;
+}
+.heading
+{
+    color: #ff0000;
+}
+#click{
+    background-color: green;
+    color: white;
+}
