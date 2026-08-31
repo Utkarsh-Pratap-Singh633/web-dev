@@ -55,10 +55,9 @@ web-dev/
 
 | Date | What I Learned / Built | Notes |
 |------|------------------------|-------|
-| _e.g. 25 Aug 2026_ | Started HTML basics — tags, structure, semantic elements | Setup repo & workflow |
-completed till forms.
-|  |  |  |
-|  |  |  |
+| 25 Aug 2026 | Started HTML basics — tags, structure, semantic elements | Setup repo & workflow |
+| 28 Aug 2026| Completed HTML basics — tags, structure, semantic elements an all the basics  | Setup Netlify & Deployed first project |
+
 
 *(New entries added daily — this table doubles as a changelog of my growth.)*
 
@@ -70,7 +69,7 @@ A running list of things I've built along the way:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| _Coming soon_ | | 🚧 In Progress |
+| https://first-html1.netlify.app/ | Deployed | Done ✅ |
 
 ---
 
