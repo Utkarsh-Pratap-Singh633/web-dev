@@ -57,6 +57,7 @@ web-dev/
 |------|------------------------|-------|
 | 25 Aug 2026 | Started HTML basics — tags, structure, semantic elements | Setup repo & workflow |
 | 28 Aug 2026| Completed HTML basics — tags, structure, semantic elements an all the basics  | Setup Netlify & Deployed first project |
+| 31 Aug 2026| Started CSS basics — colors, bg colors, how to link html with css and all   | Setup environment for better understanding |
 
 
 *(New entries added daily — this table doubles as a changelog of my growth.)*
