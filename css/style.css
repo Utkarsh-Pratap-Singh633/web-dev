@@ -1,5 +1,7 @@
 h1 {
     color: #A85751;
+    text-align: start;
+    text-decoration: red underline;
 }
 button{
     color: brown;
@@ -7,6 +9,7 @@ button{
 }
 p{
     color: blueviolet;
+    text-align: start;
 }
 body{
     background-color: beige;
@@ -18,8 +21,28 @@ body{
 .heading
 {
     color: #ff0000;
+    text-decoration: red underline;
 }
 #click{
     background-color: green;
     color: white;
+}
+
+#para{
+    font-size: 30px;
+    color: green;
+}
+#one{
+    text-align: center;
+    text-transform: capitalize;
+}
+#design{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 25px;
+
+}
+#inner{
+    font-size:10px ;
 }
