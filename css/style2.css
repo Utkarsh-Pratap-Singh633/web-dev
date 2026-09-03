@@ -1,0 +1,33 @@
+div{
+    height: 100px;
+    background-color: brown;
+    width: 100px;
+   /* border: 2px;
+    border-color: blue;
+    border-style: groove;*/
+    border: 2px solid blue;
+    text-align: center;
+    border-radius: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin: 50px 50px 50px 50px;
+}
+h1{
+    height: 100px;
+    background-color: aquamarine;
+    width: 250px;
+    /*border-width: 3px;
+    border-style: double;
+    border-color: black;*/
+    border: 3px double black;
+    text-align: center;
+    
+}
+#ps3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
